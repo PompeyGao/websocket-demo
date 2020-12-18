@@ -1,2 +1,4 @@
 websocket-server/node_modules
+socket-io-demo/node_modules
+socket-io-express/node_modules
 node_modules
